@@ -1,0 +1,4 @@
+1. ESP8266WiFi (Built-in)
+2. MFRC522 (by GithubCommunity)
+3. SPI (Built-in)
+4. ArduinoJson (by Benoit Blanchon)
